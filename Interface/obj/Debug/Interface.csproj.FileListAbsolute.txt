@@ -1,0 +1,8 @@
+D:\C#\Тесты\Interface\Interface\bin\Debug\Interface.exe.config
+D:\C#\Тесты\Interface\Interface\bin\Debug\Interface.exe
+D:\C#\Тесты\Interface\Interface\bin\Debug\Interface.pdb
+D:\C#\Тесты\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+D:\C#\Тесты\Interface\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+D:\C#\Тесты\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+D:\C#\Тесты\Interface\Interface\obj\Debug\Interface.exe
+D:\C#\Тесты\Interface\Interface\obj\Debug\Interface.pdb

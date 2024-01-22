@@ -1,0 +1,8 @@
+D:\C#\Тесты\Interface\State\bin\Debug\State.exe.config
+D:\C#\Тесты\Interface\State\bin\Debug\State.exe
+D:\C#\Тесты\Interface\State\bin\Debug\State.pdb
+D:\C#\Тесты\Interface\State\obj\Debug\State.csproj.AssemblyReference.cache
+D:\C#\Тесты\Interface\State\obj\Debug\State.csproj.SuggestedBindingRedirects.cache
+D:\C#\Тесты\Interface\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+D:\C#\Тесты\Interface\State\obj\Debug\State.exe
+D:\C#\Тесты\Interface\State\obj\Debug\State.pdb
